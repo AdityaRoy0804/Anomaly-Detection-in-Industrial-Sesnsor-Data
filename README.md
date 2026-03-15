@@ -142,8 +142,8 @@ The anomaly scatter plot highlights:
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/your-username/pmsm-anomaly-detection.git
-   cd pmsm-anomaly-detection
+   git clone https://github.com/AdityaRoy0804/Anomaly-Detection-in-Industrial-Sesnsor-Data.git
+   cd Anomaly-Detection-in-Industrial-Sesnsor-Data
 ```
 
 2. **Install dependencies**
